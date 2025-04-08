@@ -10,10 +10,9 @@
 #### Envolvimento (interesse de longo prazo):
 - Progressão de fases e desafios
 - Narrativa crescente
-- Modo cooperativo com amigos
 
 ### Quais os tipos de decisões do seu jogador?
-- **Discerníveis**: escolha de personagens e habilidades
+- **Discerníveis**: escolha de personagens, habilidades e NPCs que passará a bola (que se tornará o jogador)
 - **Integradas**: uso tático de poderes
 - **Ambíguas/Dois gumes**: foco no time ou em si mesmo
 - **Estilo novela**: narrativa com tensão e reviravoltas
