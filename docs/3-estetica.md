@@ -1,24 +1,19 @@
-### Estética
+# TEM QUE ADICIONAR COISA AQUI!!!
 
-- Personagens 
-    - Quais os personagens que farão parte do jogo?
-        - Ex: Protagonistas, Antagonistas, Personagens não jogaveis (NPCs) ...
-    - Qual o plano de fundo do(s) seu(s) personagem(s)?
-    - Quais as características mais importantes para serem adicionadas no(s) personagem(s)?
+## Estética
 
-- História
+### Personagens
 
-    - Premissa
-        - Qual o plano de fundo do seu jogo? Onde se passa?
-        - O que deve ser contado antes do jogador assumir o controle?
+#### Quais os personagens que farão parte do jogo?
+- Crianças do bairro com super-habilidades (jogadores humanos)
+- ETs do Milharal
+- Gangue dos Meteoros
+- Exército Intergaláctico
 
-    - Como o Jogo começa?
-    - Como o jogo evolui?
-        - Novas abilidades X Novos desafios
-    - Como o jogo termina? 
-        - Quais os possíveis finais da sua história?
+#### Qual o plano de fundo do(s) seu(s) personagem(s)?
+Crianças comuns que são desafiadas por alienígenas e assumem o papel de heróis da Terra.
 
-- Sentidos
-    - Quais os sentidos dos jogadores você gostaria de explorar no seu jogo?
-    - O jogo vai ter elementos visuais, sonoros, táteis, degustativos, olfativos?
-        - Como esses elementos são apresentados para o jogador?
+#### Quais as características mais importantes?
+- Habilidades únicas (velocidade, chute forte, poderes de lentidão)
+- Design visual distinto
+- Estilo visual 16 bits
