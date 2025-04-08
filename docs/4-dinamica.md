@@ -1,21 +1,31 @@
-## História
+## Dinâmica
 
-### Premissa
+### Quais os elementos de atenção e envolvimento na história?
 
-#### Qual o plano de fundo do seu jogo? Onde se passa?
-Começa num campo de futebol comum, evolui para arenas em nuvens e, finalmente, para uma arena na Lua.
+#### Atenção (interesse imediato):
+- Estética retrô
+- Habilidades únicas
+- Invasão alienígena no meio de uma partida comum
 
-#### O que deve ser contado antes do jogador assumir o controle?
-Os alienígenas decidiram invadir a Terra desafiando os humanos no futebol. As crianças do bairro se tornam os defensores do planeta.
+#### Envolvimento (interesse de longo prazo):
+- Progressão de fases e desafios
+- Narrativa crescente
+- Modo cooperativo com amigos
 
-#### Como o jogo começa?
-Com uma partida casual interrompida por alienígenas. O jogador assume o controle para enfrentar os ETs.
+### Quais os tipos de decisões do seu jogador?
+- **Discerníveis**: escolha de personagens e habilidades
+- **Integradas**: uso tático de poderes
+- **Ambíguas/Dois gumes**: foco no time ou em si mesmo
+- **Estilo novela**: narrativa com tensão e reviravoltas
 
-### Como o jogo evolui?
-A cada fase novos vilões, arenas e mecânicas são introduzidos (ex: bola flamejante, gravidade zero), aumentando o desafio.
+### Guiando o Jogador
 
-### Como o jogo termina?
+#### Quais os elementos de orientação direta?
+- **Instruções por texto**
+- **Diálogos com NPCs**
+- **Pop-ups com dicas estratégicas**
 
-#### Possíveis finais:
-- **Vitória**: Humanos vencem o Exército Intergaláctico na Lua e salvam o mundo.
-- **Derrota**: Humanidade perde o controle do futebol para os aliens.
+#### Quais os elementos de orientação indireta?
+- **Metas implícitas no jogo**
+- **Design dos personagens e campos**
+- **Expectativas visuais do avatar**
