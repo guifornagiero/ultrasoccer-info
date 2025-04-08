@@ -3,11 +3,12 @@
 ## Prefabs
 
 ### Nome
-- Player1
-- Player2
+- Humano
+- Alien
+- Meteoro
+- Exercito
 - Bola
-- Alien1
-- Alien2
+- Poderes
 
 ### Descrição
 Objetos do jogo com comportamento específico
