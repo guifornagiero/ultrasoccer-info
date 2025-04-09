@@ -17,7 +17,8 @@
   - Quando o time é derrotado
 
 - **Regras do jogo:**  
-  - Controle básico + uso de habilidades + tempo de partida
+  - Fazer mais gols
+  - Duração da partida de 6 minutos
 
 - **Procedimentos do jogo:**  
   - Escolha de personagens
