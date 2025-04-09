@@ -24,7 +24,7 @@
 - Poderes - Prefab dos poderes especiais presentes no game. Inclui componentes visuais, sons e script para controlar o comportamento das habilidades presentes no game.
 
 ### Quando são utilizados
-Durante as partidas, variando por fase
+Variando a cada partida os prefabs relacionados à jogabilidade seriam instanciados, como os de aliens, humanos, bola e poderes. Em cutscenes e background seriam instanciados os prefabs visuais como o exercito e o meteoro.
 
 ### Quais seus componentes
 - **Sprites:** Personagens, bola, alienígenas
