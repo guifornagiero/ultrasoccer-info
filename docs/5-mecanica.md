@@ -3,7 +3,9 @@
 ### Apresente os elementos formais do jogo
 
 - **Padrão de interação do jogador:**  
-  - Teclado: WASD + R
+  - Andar: WASD
+  - Chutar: Barra de espaço
+  - Poder: R
 
 - **Objetivo do jogo:**  
   - Fazer mais gols que os oponentes alienígenas
