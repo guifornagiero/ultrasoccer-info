@@ -1,5 +1,3 @@
-# TEM QUE ARRUMAR E PENSAR NESSE AQUI
-
 ## Prefabs
 
 ### Nome
